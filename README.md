@@ -2,7 +2,7 @@
 
 ## 💻 Projeto 
 Treinando o uso de DOM com JavaScript
-[Você pode visitar o site aqui]()
+[Você pode visitar o site aqui](valentepg.github.io/treinando-dom/)
 
 ## 🛠️ Funcionalidades
 Todo list simples, podendo adicionar e deletar um item da lista 
