@@ -1,5 +1,5 @@
 # treinando-dom
-
+// Repassar os conceitos aprendidos aqui!
 ## 💻 Projeto 
 Treinando o uso de DOM com JavaScript
 [Você pode visitar o site aqui](https://valentepg.github.io/treinando-dom/)
